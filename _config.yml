@@ -1,5 +1,8 @@
+name: Muhanad Amous
+favicon: null
+layout_spectrum: 0.2239527
+typography_spectrum: 0.75542
 title: Muhanad Amous
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.1151982371229678
-  brandStrength: 0.125
-  rhythmicContrast: 0.9969434808008373
-  brandColors:
-    - '#89b3e1'
-    - '#aa9381'
-    - '#040402'
-    - '#614e3d'
-    - '#e6ded4'
-  lightness: 0.5325161064974964
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Muhanad Amous
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.75542
-layout_spectrum: 0.2239527
+color:
+  brandColors:
+    - '#478fc9'
+    - '#030408'
+    - '#003c6e'
+    - '#eaf8fb'
+    - '#e43a11'
+  brandStrength: 0.1875
+  lightness: 0.5325161064974964
+  saturation: 0.1151982371229678
+  rhythmicContrast: 0.9969434808008373
+purpose: []
