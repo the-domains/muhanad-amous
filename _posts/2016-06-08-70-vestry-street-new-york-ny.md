@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: '70 Vestry Street – New York, NY'
-datePublished: '2016-06-08T17:18:44.918Z'
-dateModified: '2016-06-08T17:18:44.199Z'
+datePublished: '2016-06-08T21:15:48.401Z'
+dateModified: '2016-06-08T21:15:48.127Z'
 author:
   - name: ''
     url: ''
