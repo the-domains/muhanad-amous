@@ -1,6 +1,6 @@
 name: Muhanad Amous
 favicon: null
-layout_spectrum: 0.93152
+layout_spectrum: 0.18695
 typography_spectrum: 0.70041838218458
 title: Muhanad Amous
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#c0c8cb'
-    - '#eeeff1'
-    - '#9f9f97'
-    - '#1c2220'
-    - '#827b6b'
+    - '#fcfcfc'
+    - '#d0d0d2'
+    - '#2d2a23'
+    - '#7f8b9b'
+    - '#656944'
   brandStrength: 0.42958943522535264
   lightness: 0.5325161064974964
   saturation: 0.11519823712296784
