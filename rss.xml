@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Muhanad Amous]]></title>
         <description><![CDATA[Muhanad Amous]]></description>
-        <link>https://thegrid.ai/muhanad-amous/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 17:05:53 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/muhanad-amous/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[70 Vestry]]></title>
-            <description><![CDATA[<article><h1>70 Vestry</h1><p>70 Vestry Street – New York, NY</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8dc59e8-480a-406c-851d-37e0fc97927d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/muhanad-amous/70-vestry/index.html</link>
-            <guid isPermaLink="false">25c6dcfb-7ced-45d1-83da-0e163f946f07</guid>
-            <pubDate>Wed, 08 Jun 2016 17:05:49 GMT</pubDate>
-        </item>
+        <lastBuildDate>Wed, 08 Jun 2016 17:05:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AC2]]></title>
             <description><![CDATA[<article><h1>AC2</h1><p>Apple Campus 2 – Cupertino, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/392ca466-e46b-44c5-868f-07ed3ac4636d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/muhanad-amous/ac2/index.html</link>
+            <link>undefinedac2/index.html</link>
             <guid isPermaLink="false">c0991c82-3fc8-47e3-a430-e6fb28e6bdc2</guid>
             <pubDate>Wed, 08 Jun 2016 17:05:38 GMT</pubDate>
         </item>
