@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Apple Campus 2 – Cupertino, CA'
-datePublished: '2016-06-08T14:33:28.063Z'
-dateModified: '2016-06-08T14:29:05.864Z'
+datePublished: '2016-06-08T15:48:21.750Z'
+dateModified: '2016-06-08T15:48:17.613Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-08-apple-campus-2-cupertino-ca.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-08-apple-campus-2-cupertino-ca.md
 url: apple-campus-2-cupertino-ca/index.html
 _type: Article
 
