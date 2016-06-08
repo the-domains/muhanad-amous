@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Apple Campus 2 – Cupertino, CA'
-datePublished: '2016-06-08T15:48:21.750Z'
-dateModified: '2016-06-08T15:48:17.613Z'
+datePublished: '2016-06-08T16:03:43.877Z'
+dateModified: '2016-06-08T16:02:40.083Z'
 title: ''
 author:
   - name: ''
