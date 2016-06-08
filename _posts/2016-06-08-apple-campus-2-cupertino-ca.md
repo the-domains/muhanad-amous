@@ -1,19 +1,19 @@
 ---
-description: 'Apple Campus 2 – Cupertino, CA'
-datePublished: '2016-06-08T17:05:38.001Z'
+inFeed: true
+hasPage: true
 inNav: true
 inLanguage: null
+keywords: []
+description: 'Apple Campus 2 – Cupertino, CA'
+datePublished: '2016-06-08T17:06:36.021Z'
+dateModified: '2016-06-08T17:06:34.449Z'
+title: AC2
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-06-08-apple-campus-2-cupertino-ca.md
-hasPage: true
 authors: []
-title: AC2
 publisher: null
-keywords: []
-dateModified: '2016-06-08T17:01:46.134Z'
-inFeed: true
 starred: false
 url: ac2/index.html
 _type: Article
